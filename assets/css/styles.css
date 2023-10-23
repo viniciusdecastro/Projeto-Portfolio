@@ -1,3 +1,4 @@
+/* Formatação do CSS do Cabeçalho da página */
 * {
   margin: 0;
   padding: 0;
@@ -70,6 +71,7 @@ header {
   color: #ccc;
 }
 
+/* Formatação do CSS da página "Inicio" - pagina inicial de apresentação do Trabalho */
 .banner_inicio {
   height: calc(100vh - 100px);
   background-image: url('../images/programador.png');
@@ -117,6 +119,7 @@ header {
   font-size: 30px;
 }
 
+/* Formatação do CSS da página "Sobre Mim" - pagina que traz informações sobre o Aluno */
 .banner_sobre_mim {
   height: calc(100vh - 100px);
   background-image: url('../images/sobre_mim.png');
@@ -162,6 +165,7 @@ header {
   justify-content: space-between;
 }
 
+/* Formatação do CSS da página "Formação" - informa as formações e certificações do Aluno */
 .banner_formacao {
   height: calc(100vh - 100px);
   background-image: url('../images/formacao.png');
@@ -207,6 +211,7 @@ header {
   justify-content: space-between;
 }
 
+/* Formatação do CSS da página "Portfólio" - página que linka as páginas de perfis profissionais */
 .banner_portfolio {
   height: calc(100vh - 100px);
   background-image: url('../images/portfolio.png');
@@ -265,7 +270,7 @@ header {
   justify-content: space-between;
 }
 
-
+/* Formatação do CSS da página "Contato" - informa o canal de contato com o aluno */
 .banner_contato {
   height: calc(100vh - 100px);
   background-image: url('../images/contato.png');
