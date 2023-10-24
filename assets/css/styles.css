@@ -314,3 +314,22 @@ header {
   margin-top: 20px;
 }
 
+.formulario {
+  margin-top: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.input-fields {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+button {
+  margin-left: 76px;
+  color: #23238E;
+  font-weight: bold;
+}
+
